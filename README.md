@@ -12,8 +12,8 @@ v0.0
 If you're reading this document, know the code will be posted shortly.  Just cleaning up prior.  Thank you for your patience, please stay tuned!
 
 ### This project can:
-- Create Terraform code for AWS or Azure (GCP to come soon)
-- Bridge Terraform and Ansible to create a dynamic infrastructure
+- Create Terraform code for AWS or Azure (GCP to come soon)\*
+- Bridge Terraform and Ansible to create a dynamic infrastructure\*
 - Facilitate easier sharing, production, and configuration of Ansible Role code
 
 *\*All mentioned items are owned by their respective entities.*
